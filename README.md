@@ -1,6 +1,6 @@
 ## Ex.No:02
 ## Image Acquisition using Web Camera
-## Name:G.Ramanujam      ## Reg.No:212224240129 
+## Name:G.Ramanujam       Reg.No:212224240129 
 
 ## Aim:
  
